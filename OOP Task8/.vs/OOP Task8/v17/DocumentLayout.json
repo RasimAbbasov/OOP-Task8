@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|c:\\users\\rasim\\source\\repos\\oop task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|c:\\users\\rasim\\source\\repos\\oop task8\\files\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|solutionrelative:files\\database.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|c:\\users\\rasim\\source\\repos\\oop task8\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|c:\\users\\rasim\\source\\repos\\oop task8\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D3B2A4-87BC-43D9-80C9-D266702985FB}|OOP Task8.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.json",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Files\\Database.json",
+              "RelativeDocumentMoniker": "Files\\Database.json",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Files\\Database.json",
+              "RelativeToolTip": "Files\\Database.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T19:23:06.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:58:14.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:53:35.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Rasim\\source\\repos\\OOP Task8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T18:49:03.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
